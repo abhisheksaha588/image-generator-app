@@ -1,2 +1,5 @@
 # image-generator-app
-this is the image generator app made using html,css,js having load more button where you can check more and more images of the searched category
+This is image generator app responsive for mobile devices also.
+
+Click this below link for the preview of this project----->
+https://romeokil.github.io/image-generator-app/
